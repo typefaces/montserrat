@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "typefaces/montserrat-regular": "*",
-    "typefaces/montserrat-bold": "*",
+    "typefaces/montserrat-bold": "*"
   }
 }
