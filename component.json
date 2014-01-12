@@ -1,0 +1,11 @@
+{
+  "name": "montserrat",
+  "repo": "typefaces/montserrat",
+  "description": "The Montserrat typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "typefaces/montserrat-regular": "*",
+    "typefaces/montserrat-bold": "*",
+  }
+}
